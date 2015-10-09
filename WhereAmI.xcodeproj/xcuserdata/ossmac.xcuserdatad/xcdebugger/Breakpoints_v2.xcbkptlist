@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhereAmI/ViewController.swift"
+            timestampString = "456922913.552579"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhereAmI.ViewController.verticalAccuracyLabel.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "WhereAmI"
+                  urlString = "file:///Users/ossmac/Desktop/Progress/WhereAmI/WhereAmI/ViewController.swift"
+                  timestampString = "456922996.532286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhereAmI.ViewController.init (WhereAmI.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; WhereAmI.ViewController"
+                  moduleName = "WhereAmI"
+                  urlString = "file:///Users/ossmac/Desktop/Progress/WhereAmI/WhereAmI/ViewController.swift"
+                  timestampString = "456922996.532396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhereAmI.ViewController.init (WhereAmI.ViewController.Type)() -&gt; WhereAmI.ViewController"
+                  moduleName = "WhereAmI"
+                  urlString = "file:///Users/ossmac/Desktop/Progress/WhereAmI/WhereAmI/ViewController.swift"
+                  timestampString = "456922996.532548"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhereAmI.ViewController.init (WhereAmI.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; WhereAmI.ViewController"
+                  moduleName = "WhereAmI"
+                  urlString = "file:///Users/ossmac/Desktop/Progress/WhereAmI/WhereAmI/ViewController.swift"
+                  timestampString = "456922996.532689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "193">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
